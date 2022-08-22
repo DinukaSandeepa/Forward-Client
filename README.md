@@ -37,8 +37,8 @@ Use this at your own risk. I will not be responsible for any kind of issue while
 ### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/_xuptk2KUbk)
 
-### Deploy Now:
-[![Deploy](https://telegram.dog/XTZ_HerokuBot?start=RGludWthU2FuZGVlcGEvRm9yd2FyZC1DbGllbnQgbWFpbg)
+## Deploy Now:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=RGludWthU2FuZGVlcGEvRm9yd2FyZC1DbGllbnQgbWFpbg)
 
 ### Host Locally:
 ```sh
